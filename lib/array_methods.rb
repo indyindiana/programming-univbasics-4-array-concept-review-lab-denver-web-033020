@@ -12,7 +12,7 @@ end
 def find_max_value(array)
     max = array[0]
   array.each do |item|
-    if(item > min)
+    if(item > max)
       max = item
     end
   end
