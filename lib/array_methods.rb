@@ -15,6 +15,7 @@ def find_max_value(array)
     if(item > max)
       max = item
     end
+  end
   return (max)
   
   # Add your solution here
