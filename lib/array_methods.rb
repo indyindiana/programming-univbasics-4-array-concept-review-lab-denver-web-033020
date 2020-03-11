@@ -19,17 +19,6 @@ def find_max_value(array)
   
   # Add your solution here
 end
-  max = nums[0];
-  min = nums[0];
-  nums.each do |item|
-    if(item > max)
-			max = item;
-		elsif(item < min)
-			min = item
-    end 
-   end    
-  return (max-min)
-end
 
 def find_min_value(array)
   # Add your solution here
