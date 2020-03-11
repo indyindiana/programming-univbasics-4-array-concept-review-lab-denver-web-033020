@@ -30,8 +30,6 @@ def find_min_value(array)
   end
   return (min)
   
-  # Add your solution here
-end
 
   # Add your solution here
 end
